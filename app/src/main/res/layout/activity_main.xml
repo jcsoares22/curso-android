@@ -23,7 +23,7 @@
         android:layout_height="55dp"
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="16dp"
-        android:contentDescription="@string/tct_simulate"
+        android:contentDescription="@string/cd_simulate"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@drawable/ic_sumulate" />
